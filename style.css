@@ -22,3 +22,16 @@ header {
     margin: 0;
     padding: 0;
 }
+.escola-imagem{
+    width: 50%;
+}
+.escola{
+    background-image: linear-gradient(#042a66,#1370bd);
+    color: white;
+}
+.escola-titulo{
+    color: black;
+}
+.escola-texto{
+    color: black;
+}
